@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
+Example:
 I am Box, year 7 student that cannot graduate.
 I like playing video games and ..
 Having skills in D++ and CoffeeScript. 
