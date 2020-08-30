@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
-I am Box.
+I am Box, year 7 student that cannot graduate.
 I like playing video games and ..
-Email : box@box.com
+Having skills in D++ and CoffeeScript. 
+Learning Abedo PhotoXhop and Hello World.
+Email: box@box.com
