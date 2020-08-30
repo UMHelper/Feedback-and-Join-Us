@@ -1,6 +1,6 @@
 ---
 name: Add to members list request Template
-about: The issue template of adding new mamber
+about: The issue template of adding new member
 title: Add to members list request / [NAME]
 labels: good first issue, request
 assignees: ''
