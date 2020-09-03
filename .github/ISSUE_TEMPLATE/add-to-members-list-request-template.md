@@ -1,6 +1,6 @@
 ---
 name:  Apply to be a member 申請加入團隊
-about: The issue template of membership application, skills and CV required. Our Teams: Frontend, Backend, UI, and Marketing.
+about: The issue template of membership application, skills and CV required. 在這裏申請加入我們，需要你的技能和簡歷
 title: Apply to be a member 申請加入團隊 / [NAME]
 labels: Join us 加入我們
 assignees: 'BoxMars'
