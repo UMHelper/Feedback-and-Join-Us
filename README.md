@@ -4,6 +4,11 @@
 
 If you encounter any issues about our services, please [Click Here](https://github.com/UMHelper/Feedback-and-Join-Us/issues/new/choose) .
 
+**Data issue 數據問題**: Any issue on course/comment/score data 課程的任何數據有誤
+
+**Enhancement on features/UI/UX 建議**: Any suggestions are welcomed on features or UI/UX! 歡迎各種功能和UI/UX上的建議
+
+**Feedback on Software Issues/Bugs 反饋產品軟件問題/Bugs**: If you encounter any problems about our services, please submit here. 如果使用軟件遇到問題，請在這裏反饋、
 
 <h1> Join us 加入我們 </h1>
 
