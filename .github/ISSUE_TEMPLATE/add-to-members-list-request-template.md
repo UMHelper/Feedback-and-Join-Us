@@ -1,9 +1,9 @@
 ---
-name: Add to members list request Template
-about: The issue template of adding new member
-title: Add to members list request / [NAME]
-labels: good first issue, request
-assignees: ''
+name:  Apply to be a member 申請加入團隊
+about: The issue template of membership application, skills and CV required.
+title: Apply to be a member 申請加入團隊 / [NAME]
+labels: Join us 加入我們
+assignees: 'BoxMars'
 
 ---
 
@@ -13,3 +13,4 @@ I like playing video games and ..
 Having skills in D++ and CoffeeScript. 
 Learning Abedo PhotoXhop and Hello World.
 Email: box@box.com
+Here is my CV: (link)
