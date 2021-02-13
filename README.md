@@ -17,7 +17,7 @@ This website is not affiliated with, endorsed, or sponsored by University of Mac
 Should you have any enquiry (such as inappropriate or incorrect data, or out of order), please submit issues at this GitHub repository and we will follow up ASAP. 
 
 <h2> Personal Information Collection Statement </h2>
-Your privacy is important under our prootection. This Website collects only essential information to provide basic functions. The developer, UMHelper, will NEVER store or invesgate into any information that identifies you uniquely. However, your personal information (including your user-agent, cookies) shall be shared and processed by the third-party (i.e. Google Analytics) for the purposes of service improvement only. 
+Your privacy is important under our protection. This Website collects only essential information to provide basic functions. The developer, UMHelper, will NEVER store or invesgate into any information that identifies you uniquely. However, your personal information (including your user-agent, cookies) shall be shared and processed by the third-party (i.e. Google Analytics) for the purposes of service improvement only. 
 
 Your information is kept confidential and NEVER shared with any other parties without your consent — unless in case of situations out of our control, which we accpet no responsibility of.
 
@@ -32,7 +32,7 @@ If you are interested in becoming a member, no matter a front-/back-end develope
 
 Skills wanted:
 * HTML and CSS languages
-* Python / JavaScript / Go / Other Language...
+* Python / JavaScript / Go / Other Languages...
 * UI design with PS/AI
 * Wechat Mini Programs Development (微信小程式)
 * Advertisement platforms (e.g. Google Adsense)
