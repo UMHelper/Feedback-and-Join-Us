@@ -42,3 +42,5 @@ Skills wanted:
 Typically we don't refuse your requests if you know anything that can help team goes further!
 
 We believe that a development environment with freedom is better, so there are very limited restrictions and every member can contribute to other's repo (pull requests preferred, though) or start a new repo on their own will!
+
+[Don't click](https://www.umth.top/src/sitemap.html).
